@@ -16,6 +16,8 @@ A taco should be eaten whenever I complete a project.
 4. Overall improvement in visualization aesthetic.
 5. Improving data cleaning/manipulation skills with python
 
+* Ultimate Goal to be able to create amazing and intuitive dashboards that tell stories.
+
 ### Languages used:
 Python 3.7
 
