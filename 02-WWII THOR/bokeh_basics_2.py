@@ -39,7 +39,6 @@ hover.tooltips = [
                 ('Type of Aircraft','@AIRCRAFT_NAME')
                 ]
 
-
 p.add_tools(hover)
 
 show(p)
