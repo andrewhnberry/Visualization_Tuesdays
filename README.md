@@ -13,6 +13,7 @@ I will mainly be using python as my go to tool. However, I would like to slowly 
 ## My Current Work
 Index| Date |  Project | Notes |Data Source | Link
 ---|---|---|---|---|--
+|05  | June 3, 2020  | Analyzing comments from a NYT article   | Topic Modeling  | Acquired comments from this [NYT article](https://www.nytimes.com/2020/06/02/us/george-floyd-video-autopsy-protests.html)  |  
 |04  | May 21, 2020   | EDA - Instacart Orders   | Python  | [data](https://www.kaggle.com/psparks/instacart-market-basket-analysis)  |  [Kaggle Link](https://www.kaggle.com/andrewhnberry/eda-on-the-instacart-data) |
 | 03 | May 14, 2020 | EDA - Udemy's Courses | Python |[data](https://www.kaggle.com/andrewmvd/udemy-courses) | [Kaggle link](https://www.kaggle.com/andrewhnberry/extensive-eda-of-udemy-s-courses?scriptVersionId=33993603)
 | 02  | May 07, 2020  | WWII Thor Dataset | Little Practice on the Bokeh visualization plugin|
